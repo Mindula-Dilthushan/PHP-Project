@@ -18,7 +18,7 @@ class DBConnect{
     }
 
     function connect(){
-        include_once dirname(__FILE__).'DBConfig.php';
+        include_once dirname(__FILE__).'/DBConfig.php';
         $this->conn = mysqli_connect(HOST,USERNAME,PASSWORD)or die(mysqli_errno());
 
         mysqli_set_charset($this->conn,"utf8");

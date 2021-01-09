@@ -1,8 +1,8 @@
 <?php
 
-define('HOST',"127.0.0.1");
+define('HOST',"localhost");
 define('USERNAME',"root");
-define('PASSWORD',"password");
+define('PASSWORD',"1023");
 define('DATABASE_NAME',"phpdb")
 
 ?>
