@@ -1,7 +1,6 @@
 <?php
 include_once './DBConfig.php';
-
-class DBConnect{
+class DBConnector{
     private $conn;
 
     function __construct(){

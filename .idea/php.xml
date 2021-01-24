@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$USER_HOME$/Downloads/Compressed/php-8.0.1-src/php-8.0.1-src" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+  <component name="PhpRuntimeConfiguration" document_root_path="C:\Users\Red Alpha\Downloads\Compressed\php-8.0.1-src\php-8.0.1-src" />
 </project>
